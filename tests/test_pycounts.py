@@ -1,5 +1,5 @@
-from pycounts import pycounts
-from pycounts.pycounts import count_words
+from pycounts_son import pycounts_son
+from pycounts_son.pycounts_son import count_words
 from collections import Counter
 
 
